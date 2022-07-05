@@ -1,0 +1,5 @@
+-# Sobre mim
+-  👋 Hi, I’m @erykaisabela05
+- :+1: Meu email de cotato é eryka.girardi@escola.pr.gov.br
+- 👀 Eu estou interresado em aprender a progarmar novas linguagem 
+- 🌱 eu estou aprendedo programar  resentimente linguagem de JavaScript e Scratch
